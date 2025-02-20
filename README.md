@@ -6,11 +6,26 @@
 
 ![Build Status](https://img.shields.io/badge/Docker-2023-blue)
 
-- 👋 Hi, I’m Andrew
-- 👀 I’m interested in Python 3 back_end
-- 🌱 I’m currently learning Python3
-- 💞️ I’m looking to collaborate on person or related to the Python language
-- 📫 How to reach me - email scitecever@gmail.com
+✨ 👨‍💻 About Me
+
+Hello! I'm Andrey, a Software Engineer (Python) with experience in backend development, video streaming, and system architecture. Recently, I relocated to Toronto, Canada, and I’m actively looking for new opportunities.
+
++ 🔹 5+ years of experience in Python, Flask, FastAPI
++ 🔹 Strong expertise in RTSP cameras, video processing (FFmpeg, PyAv, OpenCV library)
++ 🔹 Passionate about building scalable and high-performance backend solutions
++ 🔹 Open to collaboration and knowledge sharing
+
+⚡ Tech Stack
+ + Backend: Python (Flask, FastAPI)
+ + Databases: PostgreSQL, MySQL, Redis
+ + DevOps & Cloud: Docker, Kubernetes
+ + Other: WebSockets
+
+📫 How to Reach Me
+ + 📧 Email: scitecever@gmail.com
+ + 🔗 LinkedIn: https://www.linkedin.com/in/andrii-terletskyi-1708ab174
+
+Let's connect and build something great! 🚀
 
 <!---
 AndreSci/AndreSci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
