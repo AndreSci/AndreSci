@@ -4,7 +4,7 @@
 
 ![Build Status](https://img.shields.io/badge/thread-2023-orange) ![Build Status](https://img.shields.io/badge/Multiprocessing-2024-orange) ![Build Status](https://img.shields.io/badge/Async-2023-orange)
 
-![Build Status](https://img.shields.io/badge/Docker-2023-blue)
+![Build Status](https://img.shields.io/badge/Docker-2023-blue) ![Build Status](https://img.shields.io/badge/Go-1.23.5-blue)](https://www.go.dev)
 
 ✨ 👨‍💻 About Me
 
