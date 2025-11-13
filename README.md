@@ -9,15 +9,15 @@
 
 ✨ 👨‍💻 About Me
 
-Hello! I'm Andrey, a Software Engineer (Python) with experience in backend development, video streaming, and system architecture. Recently, I relocated to Toronto, Canada, and I’m actively looking for new opportunities.
+Hello! I'm Andrey, a Software Engineer (Python + Golang) with experience in backend development, video streaming, and system architecture. I’m actively looking for new opportunities.
 
-+ 🔹 5+ years of experience in Python, Flask, FastAPI
++ 🔹 5+ years of experience in Python, Golang. (Flask, FastAPI, Django)
 + 🔹 Strong expertise in RTSP cameras, video processing (FFmpeg, PyAv, OpenCV library)
 + 🔹 Passionate about building scalable and high-performance backend solutions
 + 🔹 Open to collaboration and knowledge sharing
 
 ⚡ Tech Stack
- + Backend: Python (Flask, FastAPI)
+ + Backend: Python and Golang (Flask, FastAPI, Django)
  + Databases: PostgreSQL, MySQL, Redis
  + DevOps & Cloud: Docker, Kubernetes
  + Other: WebSockets
